@@ -7,6 +7,12 @@ main:
   - name: Latest
     url: post
     weight: 20
-  - name: People
+  - name: Teams
     url: people
     weight: 30
+  - name: Hall of Fame
+    url: champions
+    weight: 40
+  - name: Statistics
+    url: statistics
+    weight: 50
