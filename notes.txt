@@ -2,3 +2,5 @@ filepath <- /Users/ogsteele/Documents/prem-de-la-prem
 command <- cd /Users/ogsteele/Documents/prem-de-la-prem
             hugo server
             ctrl + c
+
+Should include a rules section
